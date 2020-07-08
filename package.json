@@ -4,7 +4,7 @@
   "license": "Apache-2.0",
   "repository": "cruise-automation/rosbag.js",
   "dependencies": {
-    "buffer": "5.2.1",
+    "buffer": "5.6.0",
     "heap": "0.2.6",
     "int53": "1.0.0"
   },
